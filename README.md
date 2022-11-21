@@ -46,16 +46,42 @@
 
 
 <h1>Projects</h1>
-<div display="flex">
-<h3>Trip Advisor</h3>
-<img align="right" width="400px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final_AdobeExpress.gif"/>
+<div>
+<span align="center">Trip Advisor</span>
+<span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final_AdobeExpress.gif"/></span>
+<a href="https://voyageguide.netlify.app/"/>Deployed Link</a>
+</br>
+<a href="https://github.com/Abhi11sep/confused-sand-1770/tree/main/tripadvisor">GitHub Link</a>
+</br>
+<p align="right">The website provides the places for the searched city and allows them to bookmark for further reference.</p>
+
+<p  align="right">Sign-in/Sign-up  |  Home page  |  Navbar and Footer  |  carousel  |  Admin panel with Authentication |  basket section  |  Searched results page</p>
 
 </div>
 
-https://github.com/Abhi11sep/Abhi11sep/blob/main/final2_AdobeExpress.gif
+<div>
+<span align="center" >Trip Advisor</span>
+<span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final2_AdobeExpress.gif"/></span>
+<a href="https://voyageguide.netlify.app/"/>Deployed Link</a>
+</br>
+<a href="https://github.com/Abhi11sep/confused-sand-1770/tree/main/tripadvisor">GitHub Link</a>
+</br>
+<p align="right">The website provides the places for the searched city and allows them to bookmark for further reference.</p>
 
-<div display="flex">
-<h3>Trip Advisor</h3>
-<img align="right" width="400px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final2_AdobeExpress.gif"/>
+<p  align="right">Sign-in/Sign-up  |  Home page  |  Navbar and Footer  |  carousel  |  Admin panel with Authentication |  basket section  |  Searched results page</p>
+
+</div>
+
+
+<div>
+<span align="center">Trip Advisor</span>
+<span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/finalwww3_AdobeExpress.gif"/></span>
+<a href="https://voyageguide.netlify.app/"/>Deployed Link</a>
+</br>
+<a href="https://github.com/Abhi11sep/confused-sand-1770/tree/main/tripadvisor">GitHub Link</a>
+</br>
+<p align="right">The website provides the places for the searched city and allows them to bookmark for further reference.</p>
+
+<p  align="right">Sign-in/Sign-up  |  Home page  |  Navbar and Footer  |  carousel  |  Admin panel with Authentication |  basket section  |  Searched results page</p>
 
 </div>
