@@ -36,4 +36,6 @@
 
 <span>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi11sep&" alt="abhi11sep" /></span>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<p></p>
+
+![snake gif](https://github.com/abhi11sep/abhi11sep/blob/output/github-contribution-grid-snake.gif)
