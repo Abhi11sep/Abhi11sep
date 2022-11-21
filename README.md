@@ -1,10 +1,8 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](http://abhi11sep.io)
-
-[![MasterHead](https://cdn-fleei.nitrocdn.com/qisXKjTnwzHvwleITWVPnwLYBndSpBxI/assets/static/optimized/rev-b0d270f/wp-content/uploads/2021/10/banner-gif.gif)](http://abhi11sep.io)
+[![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](http://abhi11sep.io)
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate full Stack developer</h3>
-<img align="right" width="400px" alt="picture of coder" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="400px" alt="picture of coder" src="https://cdn-fleei.nitrocdn.com/qisXKjTnwzHvwleITWVPnwLYBndSpBxI/assets/static/optimized/rev-b0d270f/wp-content/uploads/2021/10/banner-gif.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi11sep&label=Profile%20views&color=0e75b6&style=flat" alt="abhi11sep" /> </p>
