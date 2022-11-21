@@ -6,9 +6,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 <img align="right" width="400px" alt="picture of coder" src="https://cdn-fleei.nitrocdn.com/qisXKjTnwzHvwleITWVPnwLYBndSpBxI/assets/static/optimized/rev-b0d270f/wp-content/uploads/2021/10/banner-gif.gif"/>
-<img align="right" width="400px" alt="picture of coder" src="https://drive.google.com/file/d/1vGKP6O3lW8bNMkFdGx19JuFAzQ-1Il0X/view?usp=share_link "/>
+
 
 <!-- https://drive.google.com/file/d/1vGKP6O3lW8bNMkFdGx19JuFAzQ-1Il0X/view?usp=share_link -->
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi11sep&label=Profile%20views&color=0e75b6&style=flat" alt="abhi11sep" /> </p>
@@ -42,3 +43,11 @@
 <p></p>
 
 ![snake gif](https://github.com/abhi11sep/abhi11sep/blob/output/github-contribution-grid-snake.gif)
+
+
+<h1>Projects</h1>
+<div display="flex">
+<h3>Trip Advisor</h3>
+<img align="right" width="400px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final_AdobeExpress.gif"/>
+
+</div>
