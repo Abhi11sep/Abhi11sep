@@ -48,7 +48,7 @@
 <h1 align="left">Projects</h1>
 </br>
 <div>
-<h2 align="center">Trip Advisor clone</h2>
+<h2 align="left">Trip Advisor clone</h2>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final_AdobeExpress.gif"/></span>
 <h4 align="right">&nbsp;This website is deployed on Netlify  &nbsp;<a  href="https://voyageguide.netlify.app/"/>Deployed Link</a></h4>
 
@@ -61,7 +61,7 @@
 </div>
 
 <div>
-<h2 align="center">Blue fly clone</h2>
+<h2 align="left">Blue fly clone</h2>
   </br>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final2_AdobeExpress.gif"/></span>
 <h4 align="right">&nbsp;This website is deployed on Netlify  &nbsp;<a align="right" href="https://snazzy-blini-1ddf84.netlify.app/"/>Deployed Link</a></h4>
@@ -76,7 +76,7 @@
 
 
 <div>
-<h2 align="center">My net diary clone</h2>
+<h2 align="left">My net diary clone</h2>
   </br>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/finalwww3_AdobeExpress.gif"/></span>
 <h4 align="right">&nbsp;This website is deployed on Netlify  &nbsp;<a href="https://celebrated-rabanadas-429a49.netlify.app/"/>Deployed Link</a></h4>
