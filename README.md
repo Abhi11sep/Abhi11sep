@@ -47,7 +47,7 @@
 
 <h1>Projects</h1>
 <div>
-<h3 align="center">Trip Advisor clone</h3>
+<h3 align="left">Trip Advisor clone</h3>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final_AdobeExpress.gif"/></span>
 <h4 align="right">&nbsp;This website is deployed on Netlify  &nbsp;<a  href="https://voyageguide.netlify.app/"/>Deployed Link</a></h4>
 
