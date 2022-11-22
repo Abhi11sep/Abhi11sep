@@ -36,13 +36,15 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi11sep&show_icons=true&locale=en&layout=compact" alt="abhi11sep" /></p> -->
 
 
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi11sep&show_icons=true&locale=en" alt="abhi11sep" /></span>
+<!-- <span bg_color="black">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi11sep&show_icons=true&locale=en" alt="abhi11sep" /></span> -->
 
-<span>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi11sep&" alt="abhi11sep" /></span>
+![Abhi11sep's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi11sep&show_icons=true&theme=dark)
+
+<span>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi11sep&show_icons=true&theme=dark" alt="abhi11sep" /></span>
 
 <p></p>
 
-![snake gif](https://github.com/abhi11sep/abhi11sep/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/abhi11sep/abhi11sep/blob/output/github-contribution-grid-snake.gif) -->
 
 
 <h1 align="left">Projects</h1>
