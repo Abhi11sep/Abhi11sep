@@ -49,9 +49,9 @@
 <div>
 <h3 align="center">Trip Advisor clone</h3>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final_AdobeExpress.gif"/></span>
-<a href="https://voyageguide.netlify.app/"/>Deployed Link</a>
+<span align="right"><a  href="https://voyageguide.netlify.app/"/>Deployed Link</a></span>
 </br>
-<a href="https://github.com/Abhi11sep/confused-sand-1770/tree/main/tripadvisor">GitHub Link</a>
+<span align="right"><a align="right" href="https://github.com/Abhi11sep/confused-sand-1770/tree/main/tripadvisor">GitHub Link</a></span>
 </br>
 <p align="right">The website provides the places for the searched city and allows them to bookmark for further reference.</p>
 
@@ -62,7 +62,7 @@
 <div>
 <h3 align="center">Blue fly clone</h3>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final2_AdobeExpress.gif"/></span>
-<a href="https://snazzy-blini-1ddf84.netlify.app/"/>Deployed Link</a>
+<a align="right" href="https://snazzy-blini-1ddf84.netlify.app/"/>Deployed Link</a>
 </br>
 <a href="https://github.com/Anwar7411/direful-order-8525">GitHub Link</a>
 </br>
