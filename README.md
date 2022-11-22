@@ -47,7 +47,7 @@
 
 <h1>Projects</h1>
 <div>
-<span align="center">Trip Advisor</span>
+<span align="center">Trip Advisor clone</span>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final_AdobeExpress.gif"/></span>
 <a href="https://voyageguide.netlify.app/"/>Deployed Link</a>
 </br>
@@ -60,28 +60,28 @@
 </div>
 
 <div>
-<span align="center" >Trip Advisor</span>
+<span align="center">Blue fly clone</span>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final2_AdobeExpress.gif"/></span>
-<a href="https://voyageguide.netlify.app/"/>Deployed Link</a>
+<a href="https://snazzy-blini-1ddf84.netlify.app/"/>Deployed Link</a>
 </br>
-<a href="https://github.com/Abhi11sep/confused-sand-1770/tree/main/tripadvisor">GitHub Link</a>
+<a href="https://github.com/Anwar7411/direful-order-8525">GitHub Link</a>
 </br>
-<p align="right">The website provides the places for the searched city and allows them to bookmark for further reference.</p>
+<p align="right">E-commerce website where users can buy products such as clothing, shoes, handbags, watches etc.</p>
 
-<p  align="right">Sign-in/Sign-up  |  Home page  |  Navbar and Footer  |  carousel  |  Admin panel with Authentication |  basket section  |  Searched results page</p>
+<p  align="right">Sign-in/Sign-up  |  Home page  |  product page with multiple filters  |  Cart page  |  confirmation and payment </p>
 
 </div>
 
 
 <div>
-<span align="center">Trip Advisor</span>
+<span align="center">My net diary clone</span>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/finalwww3_AdobeExpress.gif"/></span>
-<a href="https://voyageguide.netlify.app/"/>Deployed Link</a>
+<a href="https://celebrated-rabanadas-429a49.netlify.app/"/>Deployed Link</a>
 </br>
-<a href="https://github.com/Abhi11sep/confused-sand-1770/tree/main/tripadvisor">GitHub Link</a>
+<a href="https://github.com/Abhi11sep/screeching-egg-574">GitHub Link</a>
 </br>
-<p align="right">The website provides the places for the searched city and allows them to bookmark for further reference.</p>
+<p align="right">TFitness website where users manage their calorie count on a daily basis and get customised routine plans.</p>
 
-<p  align="right">Sign-in/Sign-up  |  Home page  |  Navbar and Footer  |  carousel  |  Admin panel with Authentication |  basket section  |  Searched results page</p>
+<p  align="right">Sign-in/Sign-up with required plans  |  Home page  |  Navbar  |  Footer  |  carousel </p>
 
 </div>
