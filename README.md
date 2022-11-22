@@ -59,7 +59,7 @@
 <!-- <p  align="right">Sign-in/Sign-up  |  Home page  |  Navbar and Footer  |  carousel  |  Admin panel with Authentication |  basket section  |  Searched results page</p> -->
 
 </div>
-
+</br>
 <div>
 <h2 align="left">Blue fly clone</h2>
   </br>
@@ -73,7 +73,7 @@
 <!-- <p  align="right">Sign-in/Sign-up  |  Home page  |  product page with multiple filters  |  Cart page  |  confirmation and payment </p> -->
 
 </div>
-
+</br>
 
 <div>
 <h2 align="left">My net diary clone</h2>
