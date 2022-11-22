@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React, Redux etc.**
 
-- 👨‍💻 All of my projects are available at [https://abhi11sep.github.io/](https://abhi11sep.github.io/)
+- 👨‍💻 Please have a look at my protfolio [https://abhi11sep.github.io/](https://abhi11sep.github.io/)
 
 - 📫 How to reach me **abhi.rocks.11.9.1997@gmail.com**
 <!-- -  Please have a look at my [https://drive.google.com/file/d/1KtcFdg0Zcu6nqk68Ic9WuHMfqZq2gffu/view?usp=share_link](RESUME) -->
