@@ -47,7 +47,7 @@
 
 <h1>Projects</h1>
 <div>
-<span align="center">Trip Advisor clone</span>
+<h3 align="center">Trip Advisor clone</h3>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final_AdobeExpress.gif"/></span>
 <a href="https://voyageguide.netlify.app/"/>Deployed Link</a>
 </br>
@@ -60,7 +60,7 @@
 </div>
 
 <div>
-<span align="center">Blue fly clone</span>
+<h3 align="center">Blue fly clone</h3>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final2_AdobeExpress.gif"/></span>
 <a href="https://snazzy-blini-1ddf84.netlify.app/"/>Deployed Link</a>
 </br>
@@ -74,7 +74,7 @@
 
 
 <div>
-<span align="center">My net diary clone</span>
+<h3 align="center">My net diary clone</h3>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/finalwww3_AdobeExpress.gif"/></span>
 <a href="https://celebrated-rabanadas-429a49.netlify.app/"/>Deployed Link</a>
 </br>
