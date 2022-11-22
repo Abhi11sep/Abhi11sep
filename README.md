@@ -49,26 +49,26 @@
 <div>
 <h3 align="center">Trip Advisor clone</h3>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final_AdobeExpress.gif"/></span>
-<span align="right"><a  href="https://voyageguide.netlify.app/"/>Deployed Link</a></span>
-</br>
-<span align="right"><a align="right" href="https://github.com/Abhi11sep/confused-sand-1770/tree/main/tripadvisor">GitHub Link</a></span>
-</br>
-<p align="right">The website provides the places for the searched city and allows them to bookmark for further reference.</p>
+<h4 align="right">&nbsp;This website is deployed on Netlify  &nbsp;<a  href="https://voyageguide.netlify.app/"/>Deployed Link</a></h4>
 
-<p  align="right">Sign-in/Sign-up  |  Home page  |  Navbar and Footer  |  carousel  |  Admin panel with Authentication |  basket section  |  Searched results page</p>
+<h4 align="right">&nbsp;Link of the project Repository &nbsp;<a align="right" href="https://github.com/Abhi11sep/confused-sand-1770/tree/main/tripadvisor">GitHub Link</a></h4>
+
+<h6 align="right">Trip planingg website</h6>
+
+<!-- <p  align="right">Sign-in/Sign-up  |  Home page  |  Navbar and Footer  |  carousel  |  Admin panel with Authentication |  basket section  |  Searched results page</p> -->
 
 </div>
 
 <div>
 <h3 align="center">Blue fly clone</h3>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final2_AdobeExpress.gif"/></span>
-<a align="right" href="https://snazzy-blini-1ddf84.netlify.app/"/>Deployed Link</a>
-</br>
-<a href="https://github.com/Anwar7411/direful-order-8525">GitHub Link</a>
-</br>
-<p align="right">E-commerce website where users can buy products such as clothing, shoes, handbags, watches etc.</p>
+<h4 align="right">&nbsp;This website is deployed on Netlify  &nbsp;<a align="right" href="https://snazzy-blini-1ddf84.netlify.app/"/>Deployed Link</a></h4>
 
-<p  align="right">Sign-in/Sign-up  |  Home page  |  product page with multiple filters  |  Cart page  |  confirmation and payment </p>
+<h4 align="right">&nbsp;Link of the project Repository &nbsp;<a href="https://github.com/Anwar7411/direful-order-8525">GitHub Link</a></h4>
+
+<h6 align="right">E-commerce website</h6>
+
+<!-- <p  align="right">Sign-in/Sign-up  |  Home page  |  product page with multiple filters  |  Cart page  |  confirmation and payment </p> -->
 
 </div>
 
@@ -76,12 +76,12 @@
 <div>
 <h3 align="center">My net diary clone</h3>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/finalwww3_AdobeExpress.gif"/></span>
-<a href="https://celebrated-rabanadas-429a49.netlify.app/"/>Deployed Link</a>
-</br>
-<a href="https://github.com/Abhi11sep/screeching-egg-574">GitHub Link</a>
-</br>
-<p align="right">TFitness website where users manage their calorie count on a daily basis and get customised routine plans.</p>
+<h4 align="right">&nbsp;This website is deployed on Netlify  &nbsp;<a href="https://celebrated-rabanadas-429a49.netlify.app/"/>Deployed Link</a></h4>
 
-<p  align="right">Sign-in/Sign-up with required plans  |  Home page  |  Navbar  |  Footer  |  carousel </p>
+<h4 align="right">&nbsp;Link of the project Repository &nbsp;<a href="https://github.com/Abhi11sep/screeching-egg-574">GitHub Link</a></h4>
+
+<h6 align="right">Fitness website </h6>
+
+<!-- <p  align="center">Sign-in/Sign-up with required plans  |  Home page  |  Navbar  |  Footer  |  carousel </p> -->
 
 </div>
