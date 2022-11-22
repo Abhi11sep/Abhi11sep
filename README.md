@@ -5,7 +5,7 @@
 <!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) -->
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate full Stack developer</h3>
-<img align="right" width="400px" alt="picture of coder" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif"/>
+<img align="right" width="300px" alt="picture of coder" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif"/>
 
 
 <!-- https://drive.google.com/file/d/1vGKP6O3lW8bNMkFdGx19JuFAzQ-1Il0X/view?usp=share_link -->
