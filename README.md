@@ -1,6 +1,6 @@
-<!-- [![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](http://abhi11sep.io)
+[![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](http://abhi11sep.io)
 
-<img align="right" width="400px" alt="picture of coder" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif"/> -->
+<!-- <img align="right" width="400px" alt="picture of coder" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif"/>  -->
 
 <!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) -->
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
