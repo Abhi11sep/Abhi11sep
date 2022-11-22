@@ -54,7 +54,7 @@
 
 <h4 align="right">&nbsp;Link of the project Repository &nbsp;<a align="right" href="https://github.com/Abhi11sep/confused-sand-1770/tree/main/tripadvisor">GitHub Link</a></h4>
 
-<h6 align="right">Trip planingg website</h6>
+<h6 align="right">Trip planning website</h6>
 
 <!-- <p  align="right">Sign-in/Sign-up  |  Home page  |  Navbar and Footer  |  carousel  |  Admin panel with Authentication |  basket section  |  Searched results page</p> -->
 
