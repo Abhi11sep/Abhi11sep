@@ -45,7 +45,7 @@
 ![snake gif](https://github.com/abhi11sep/abhi11sep/blob/output/github-contribution-grid-snake.gif)
 
 
-<h1>Projects</h1>
+<h1 align="center">Projects</h1>
 <div>
 <h3 align="left">Trip Advisor clone</h3>
 <span>&nbsp;<img align="left" width="300px" alt="picture of coder" src="https://github.com/Abhi11sep/Abhi11sep/blob/main/final_AdobeExpress.gif"/></span>
