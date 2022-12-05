@@ -38,7 +38,7 @@
 
 <!-- <span bg_color="black">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi11sep&show_icons=true&locale=en" alt="abhi11sep" /></span> -->
 
-![Abhi11sep's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi11sep&show_icons=true&theme=dark)
+![Abhi11sep's GitHub stats](https://github-readme-stats.herokuapp.app/api?username=abhi11sep&show_icons=true&theme=dark)
 
 <span>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi11sep&show_icons=true&theme=dark" alt="abhi11sep" /></span>
 
